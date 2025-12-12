@@ -107,6 +107,8 @@ figure {
     font-size: 1em;
     color: gray;
     margin: 5px;
+    padding-left: 50px;
+    padding-right:50px;
 }
 
 .icon-container img {
